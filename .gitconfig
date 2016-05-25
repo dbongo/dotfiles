@@ -1,0 +1,5 @@
+[user]
+  name = Michael Crowther
+  email = crow404@gmail.com
+[alias]
+	up = "!git remote update -p; git merge --ff-only @{u}"
